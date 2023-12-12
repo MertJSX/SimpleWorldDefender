@@ -1,0 +1,6 @@
+disabled:
+  placing-blocks:
+    - "world"
+  breaking-blocks:
+    - "world_nether"
+    - "world"

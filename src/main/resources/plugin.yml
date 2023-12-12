@@ -1,0 +1,4 @@
+name: SimpleWorldDefender
+version: '${project.version}'
+main: org.simpleworlddefender.simpleworlddefender.SimpleWorldDefender
+api-version: '1.16'
